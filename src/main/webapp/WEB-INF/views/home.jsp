@@ -14,13 +14,6 @@ this home
 hi~!
 JaeJun!
 home
-(ﾟωﾟ*)
-■■■━━━■■■
-■　━　　　━　■
-┃　●　　　●　┃
-┃　　　┃　　　┃
-┃　　┗　┛　　┃
-┃　　 ━━　　 ┃
-┗━━━━━━━┛
+<a href="PDFpage">pdf</a>
 </body>
 </html>
