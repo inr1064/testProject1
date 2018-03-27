@@ -14,6 +14,6 @@ this home
 hi~!
 JaeJun!
 home
-<a href="PDFpage">pdf</a>
+<a href="pdf">pdf</a>
 </body>
 </html>

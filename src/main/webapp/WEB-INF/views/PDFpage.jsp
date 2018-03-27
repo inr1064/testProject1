@@ -9,8 +9,7 @@
 <title>PDF</title>
 </head>
 <body >
-<iframe style="width:500px; height:500px" src="resources/sample.pdf">
-</iframe>
+<img src="resources/images/myimage.jpg">
 
 
 
